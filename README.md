@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first react project. It is a UI of a task manager that can add, view and delete tasks. 
+It has a dynamic form view to add tasks and the newly added tasks are ready to view in real time.
+
+This project was done with the aid of a tutorial video:
+React JS Crash Course 2021. 
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4770s
 
 ## Available Scripts
 
